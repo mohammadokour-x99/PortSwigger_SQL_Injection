@@ -8,7 +8,7 @@ Exploit a blind SQL injection vulnerability to:
 - Log in as the administrator user
 
 --- 
-![screen](images/lab12_3.png)
+![screen](images/lab12_2.png)
 
 ---
 
