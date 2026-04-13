@@ -8,7 +8,7 @@ Exploit a SQL injection vulnerability to:
 - Log in as the administrator user
 
 ---
-![screen](images/lab18_0)
+![screen](images/lab18_0.png)
 
 ---
 
