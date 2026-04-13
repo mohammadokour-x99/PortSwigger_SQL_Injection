@@ -80,7 +80,7 @@ To bypass this filter, I used the **Hackvertor** extension in Burp Suite.
 
 
 --- 
-## no lets inject our payload to get administrator's password
+## now lets inject our payload to get administrator's password
 
 ![screen](images/lab18_6.png)
 
