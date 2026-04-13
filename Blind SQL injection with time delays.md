@@ -7,7 +7,7 @@ Exploit a blind SQL injection vulnerability to:
 - Prove conditional time-based behavior
 
 ---
-![screen](images/lab14_1.png)
+![screen](images/lab14_5.png)
 
 ---
 ## Lab Overview
