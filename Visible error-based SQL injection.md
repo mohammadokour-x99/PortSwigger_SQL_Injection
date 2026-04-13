@@ -1,6 +1,6 @@
 # Lab: Visible Error-Based SQL Injection
 
-![screen](images/lab13_1.png)
+![screen](images/defualt.png)
 
 ---
 
